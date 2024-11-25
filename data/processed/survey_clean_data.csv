@@ -1,0 +1,96 @@
+Nombre,Genero,Edad,Usa plataformas de streaming,Plataformas de streaming favorita,Frecuencia de uso de TV abierta,Frecuencia de uso de plataformas de streaming,Tipo de contenido que consume,Suscripcion pagada,Caracteristicas mas importantes,Han cancelado suscripcion
+Usuario 1 ,Masculino,20,Si,Otras,Nunca,Diario,Musica,Si,"Calidad, Exclusividad del contenido",Si
+Usuario 2 ,Masculino,20,No,Otras,Nunca,Cada mes,Peliculas,No,"Catalogo, Calidad",Si
+Usuario 3 ,Femenino,18,Si,Spotify,Nunca,Diario,Musica,Si,Calidad,Si
+Usuario 4,Masculino,18,Si,Spotify,Nunca,Diario,Musica,Si,Exclusividad del contenido,Si
+Usuario 5,Masculino,21,Si,Spotify,Nunca,Diario,Musica,Si,"Precio, Calidad",Si
+Usuario 6,Femenino,39,Si,Netflix,Nunca,Diario,Series,Si,"Precio, Catalogo, Calidad, Exclusividad del contenido",Si
+Usuario 7,Femenino,18,Si,Spotify,Nunca,Diario,Musica,Si,Precio,Si
+Usuario 8,Femenino,18,Si,Netflix,Nunca,Diario,Series,Si,"Precio, Catalogo, Calidad",Si
+Usuario 9,Femenino,23,Si,Disney,Nunca,Diario,Series,Si,"Precio, Catalogo, Calidad, Exclusividad del contenido",No
+Usuario 10,Masculino,19,Si,Netflix,Nunca,Cada mes,Otros,No,Catalogo,No
+Usuario 11,Femenino,19,Si,Otras,Nunca,Diario,Musica,Si,"Catalogo, Calidad",Si
+Usuario 12,Femenino,18,No,Netflix,Nunca,Diario,Peliculas,No,"Precio, Calidad",Si
+Usuario 13,Masculino,20,Si,Otras,Nunca,Cada semana,Musica,Si,Precio,Si
+Usuario 14,Femenino,33,Si,Netflix,Nunca,Diario,Series,Si,Precio,Si
+Usuario 15,Femenino,15,Si,Spotify,Nunca,Cada semana,Musica,Si,Catalogo,Si
+Usuario 16,Masculino,18,Si,Otras,Diario,Diario,Peliculas,Si,Calidad,No
+Usuario 17,Masculino,27,Si,Otras,Nunca,Diario,Otros,Si,Catalogo,No
+Usuario 18,Femenino,61,Si,Netflix,Nunca,Diario,Peliculas,Si,Exclusividad del contenido,Si
+Usuario 19,Masculino,43,Si,Netflix,Varias veces a la semana,Diario,Peliculas,Si,"Precio, Catalogo, Calidad",Si
+Usuario 20,Masculino,50,Si,Netflix,Diario,Cada semana,Peliculas,Si,"Precio, Catalogo, Calidad, Exclusividad del contenido",Si
+Usuario 21,Masculino,64,Si,Netflix,Nunca,Diario,Directos o en vivos,Si,"Precio, Calidad",No
+Usuario 22,Masculino,57,Si,Netflix,Varias veces a la semana,Cada semana,Peliculas,Si,Precio,Si
+Usuario 23,Femenino,33,Si,Netflix,Nunca,Diario,Series,Si,"Calidad, Exclusividad del contenido",No
+Usuario 24,Masculino,19,Si,Otras,Varias veces a la semana,Cada mes,Musica,No,"Calidad, Exclusividad del contenido",No
+Usuario 25,Masculino,45,Si,Netflix,Varias veces a la semana,Cada semana,Peliculas,Si,Precio,No
+Usuario 26,Femenino,50,No,Otras,Varias veces a la semana,,Documentales,No,"Precio, Exclusividad del contenido",No
+Usuario 27,Masculino,18,Si,Spotify,Nunca,Diario,Musica,No,Calidad,Si
+Usuario 28,Masculino,18,Si,Otras,Varias veces a la semana,Cada mes,Series,Si,Calidad,Si
+Usuario 29,Masculino,18,Si,Netflix,Nunca,Diario,Peliculas,No,Calidad,Si
+Usuario 30,Masculino,50,Si,Netflix,Varias veces a la semana,Diario,Otros,Si,Catalogo,Si
+Usuario 31,Masculino,20,Si,Spotify,Nunca,Diario,Musica,Si,Calidad,Si
+Usuario 32,Masculino,22,Si,Twitch,Nunca,Diario,Directos o en vivos,Si,Calidad,No
+Usuario 33,Masculino,18,Si,Spotify,Varias veces a la semana,Diario,Directos o en vivos,Si,"Precio, Calidad",Si
+Usuario 34,Femenino,26,Si,Disney,Varias veces a la semana,Diario,Peliculas,Si,"Precio, Catalogo, Calidad",No
+Usuario 35,Femenino,20,Si,Netflix,Varias veces a la semana,Cada semana,Series,Si,Calidad,Si
+Usuario 36,Masculino,18,Si,Otras,Nunca,Cada semana,Series,Si,"Precio, Catalogo",No
+Usuario 37,Femenino,38,Si,Spotify,Nunca,Diario,Musica,Si,"Precio, Catalogo, Calidad",Si
+Usuario 38,Femenino,28,Si,Netflix,Nunca,Cada semana,Series,Si,"Precio, Catalogo",No
+Usuario 39,Masculino,26,No,Netflix,Varias veces a la semana,Cada semana,Series,Si,Calidad,No
+Usuario 40,Femenino,18,Si,Otras,Nunca,Cada semana,Peliculas,Si,Catalogo,Si
+Usuario 41,Masculino,32,Si,Otras,Varias veces a la semana,Diario,Musica,No,Precio,No
+Usuario 42,Femenino,19,Si,Netflix,Diario,Cada semana,Series,Si,"Precio, Calidad",No
+Usuario 43,Masculino,33,Si,Spotify,Nunca,Diario,Musica,Si,Calidad,Si
+Usuario 44,Masculino,39,Si,"Netflix, Spotify, Twitch, Otras",Nunca,Diario,Musica,Si,"Catalogo, Calidad",Si
+Usuario 45,Femenino,24,Si,"Netflix, Spotify",Varias veces a la semana,Diario,"Series, Musica",Si,Calidad,No
+Usuario 46,Femenino,20,Si,"Disney, Twitch",Nunca,Cada semana,"Peliculas, Musica, Directos o en vivos",No,"Precio, Exclusividad del contenido",No
+Usuario 47,Femenino,35,Si,Spotify,Diario,Cada semana,"Peliculas, Musica",Si,Precio,Si
+Usuario 48,Masculino,43,Si,"Netflix, Disney, Otras",Varias veces a la semana,Diario,"Series, Peliculas, Documentales, Otros",Si,"Catalogo, Calidad",No
+Usuario 49,Femenino,,Si,"Netflix, Disney, Spotify, Otras",Varias veces a la semana,Diario,"Peliculas, Musica",Si,"Precio, Catalogo",No
+Usuario 50,Masculino,19,Si,"Netflix, Disney, Spotify, Twitch, Otras",Nunca,Cada semana,"Series, Peliculas",Si,"Catalogo, Calidad",No
+Usuario 51,Masculino,27,Si,"Disney, Spotify, Otras",Nunca,Cada semana,"Series, Peliculas, Musica, Otros",Si,"Catalogo, Exclusividad del contenido",Si
+Usuario 52,Femenino,15,Si,Netflix,Diario,Diario,Peliculas,Si,"Precio, Catalogo",No
+Usuario 53,Femenino,45,Si,"Netflix, Disney, Spotify",Diario,Diario,"Series, Peliculas, Musica",Si,Precio,Si
+Usuario 54,Masculino,18,Si,"Spotify, Otras",Nunca,Diario,"Series, Peliculas, Musica, Documentales, Otros",Si,"Precio, Catalogo, Calidad",Si
+Usuario 55,Femenino,20,Si,"Disney, Spotify",Varias veces a la semana,Diario,"Peliculas, Musica",Si,"Precio, Catalogo",Si
+Usuario 56,Masculino,18,Si,Otras,Varias veces a la semana,Diario,Directos o en vivos,Si,Calidad,No
+Usuario 57,Femenino,40,Si,Netflix,Varias veces a la semana,Cada semana,"Series, Peliculas",Si,"Precio, Calidad",Si
+Usuario 58,Masculino,59,Si,"Netflix, Spotify",Diario,Diario,"Peliculas, Directos o en vivos, Documentales",No,Exclusividad del contenido,No
+Usuario 59,Masculino,28,Si,Netflix,Nunca,Diario,Peliculas,Si,Calidad,No
+Usuario 60,Femenino,43,Si,"Netflix, Disney, Spotify",Nunca,Diario,"Series, Musica, Documentales",Si,"Precio, Calidad",Si
+Usuario 61,Masculino,20,Si,"Disney, Otras",Varias veces a la semana,Cada semana,Otros,Si,Exclusividad del contenido,No
+Usuario 62,Masculino,19,Si,Otras,Varias veces a la semana,Diario,"Series, Peliculas, Musica",No,Calidad,Si
+Usuario 63,Femenino,39,Si,"Netflix, Spotify",Diario,Cada semana,"Series, Peliculas, Musica, Documentales",,Calidad,Si
+Usuario 64,Femenino,24,Si,"Netflix, Disney",Varias veces a la semana,Cada semana,"Series, Peliculas",Si,"Precio, Catalogo",No
+Usuario 65,Femenino,19,Si,"Netflix, Disney, Spotify, Twitch",Varias veces a la semana,Cada semana,"Peliculas, Musica, Documentales",Si,Calidad,Si
+Usuario 66,Masculino,45,Si,Netflix,Diario,Diario,Series,Si,Precio,Si
+Usuario 67,Masculino,17,No,Netflix,Varias veces a la semana,Cada semana,Peliculas,No,Catalogo,Si
+Usuario 68,Femenino,22,Si,"Netflix, Disney, Spotify",Nunca,Cada semana,"Series, Peliculas, Musica",Si,"Precio, Exclusividad del contenido",Si
+Usuario 69,Masculino,33,Si,"Netflix, Disney, Spotify, Twitch, Otras",Varias veces a la semana,Diario,"Series, Peliculas, Musica, Directos o en vivos",Si,"Precio, Calidad, Exclusividad del contenido",Si
+Usuario 70,Masculino,21,Si,"Netflix, Twitch",Varias veces a la semana,Cada semana,"Peliculas, Directos o en vivos",Si,"Precio, Catalogo",Si
+Usuario 71,Masculino,32,Si,"Netflix, Disney, Otras",Nunca,Cada semana,"Series, Musica, Documentales",Si,"Catalogo, Calidad",Si
+Usuario 72,Masculino,21,Si,"Netflix, Otras",Nunca,Cada semana,"Peliculas, Musica",Si,"Precio, Catalogo",Si
+Usuario 73,Femenino,18,Si,"Netflix, Spotify",Nunca,Diario,"Series, Peliculas, Musica",Si,"Precio, Catalogo, Calidad",No
+Usuario 74,Femenino,38,Si,"Netflix, Disney, Spotify",Nunca,Cada semana,"Series, Peliculas, Musica, Documentales",Si,"Precio, Catalogo",Si
+Usuario 75,Masculino,19,Si,Otras,Nunca,Diario,"Peliculas, Directos o en vivos",No,Calidad,No
+Usuario 76,Masculino,18,Si,"Netflix, Disney, Spotify",Varias veces a la semana,Diario,"Series, Musica",Si,"Catalogo, Calidad",Si
+Usuario 77,Masculino,18,Si,"Netflix, Spotify, Twitch",Diario,Diario,"Musica, Directos o en vivos",No,"Calidad, Exclusividad del contenido",No
+Usuario 78,Masculino,19,Si,"Netflix, Disney, Spotify",Varias veces a la semana,Diario,Peliculas,Si,"Precio, Catalogo",Si
+Usuario 79,Femenino,18,Si,"Netflix, Spotify, Otras",Nunca,Diario,"Series, Peliculas, Musica",Si,"Precio, Catalogo",No
+Usuario 80,Masculino,18,No,Spotify,Varias veces a la semana,Cada semana,Series,No,Calidad,No
+Usuario 81,Masculino,17,Si,"Netflix, Disney, Spotify",Diario,Cada semana,"Peliculas, Musica, Documentales",Si,"Precio, Calidad",Si
+Usuario 82,Femenino,41,Si,Spotify,Nunca,Diario,Musica,Si,"Precio, Catalogo",No
+Usuario 83,Masculino,17,Si,"Netflix, Disney, Spotify, Otras",Nunca,Cada semana,"Series, Peliculas, Documentales, Otros",Si,"Precio, Calidad, Exclusividad del contenido",Si
+Usuario 84,Masculino,19,No,Otras,Varias veces a la semana,Cada mes,Otros,No,Calidad,Si
+Usuario 85,Masculino,21,Si,"Netflix, Disney, Spotify",Nunca,Diario,"Series, Peliculas, Musica, Directos o en vivos",Si,"Precio, Catalogo, Calidad",Si
+Usuario 86,Femenino,21,Si,Netflix,Nunca,Cada semana,Series,Si,Calidad,Si
+Usuario 87,Femenino,41,Si,"Disney, Spotify, Otras",Nunca,Cada semana,"Series, Musica",Si,Precio,No
+Usuario 88,Femenino,18,Si,Netflix,Nunca,Cada semana,Peliculas,Si,"Precio, Calidad",Si
+Usuario 89,Masculino,26,Si,"Netflix, Disney, Otras",Nunca,Diario,"Series, Peliculas",Si,"Catalogo, Calidad",Si
+Usuario 90,Femenino,26,Si,Netflix,Nunca,Diario,"Series, Peliculas",Si,Catalogo,No
+Usuario 91,Masculino,18,Si,Otras,Nunca,Diario,"Series, Musica, Documentales, Otros",No,"Precio, Catalogo, Calidad",No
+Usuario 92,Masculino,43,Si,Netflix,Nunca,Cada semana,"Series, Peliculas, Musica",Si,"Precio, Calidad",Si
+Usuario 93,Femenino,18,Si,"Netflix, Spotify",Nunca,Cada semana,"Series, Musica",Si,"Catalogo, Exclusividad del contenido",No
+Usuario 94,Femenino,21,Si,Netflix,Diario,Diario,"Series, Peliculas",Si,Calidad,Si
+Usuario 95,Femenino,56,Si,Otras,Diario,Diario,"Peliculas, Musica",No,Calidad,No
