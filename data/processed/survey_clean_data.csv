@@ -15,7 +15,7 @@ Usuario 13,Masculino,20,Si,Otras,Nunca,Cada semana,Musica,Si,Precio,Si
 Usuario 14,Femenino,33,Si,Netflix,Nunca,Diario,Series,Si,Precio,Si
 Usuario 15,Femenino,15,Si,Spotify,Nunca,Cada semana,Musica,Si,Catalogo,Si
 Usuario 16,Masculino,18,Si,Otras,Diario,Diario,Peliculas,Si,Calidad,No
-Usuario 17,Masculino,27,Si,Otras,Nunca,Diario,Otros,Si,Catalogo,No
+Usuario 17,Otro,27,Si,Otras,Nunca,Diario,Otros,Si,Catalogo,No
 Usuario 18,Femenino,61,Si,Netflix,Nunca,Diario,Peliculas,Si,Exclusividad del contenido,Si
 Usuario 19,Masculino,43,Si,Netflix,Varias veces a la semana,Diario,Peliculas,Si,"Precio, Catalogo, Calidad",Si
 Usuario 20,Masculino,50,Si,Netflix,Diario,Cada semana,Peliculas,Si,"Precio, Catalogo, Calidad, Exclusividad del contenido",Si
@@ -82,7 +82,7 @@ Usuario 80,Masculino,18,No,Spotify,Varias veces a la semana,Cada semana,Series,N
 Usuario 81,Masculino,17,Si,"Netflix, Disney, Spotify",Diario,Cada semana,"Peliculas, Musica, Documentales",Si,"Precio, Calidad",Si
 Usuario 82,Femenino,41,Si,Spotify,Nunca,Diario,Musica,Si,"Precio, Catalogo",No
 Usuario 83,Masculino,17,Si,"Netflix, Disney, Spotify, Otras",Nunca,Cada semana,"Series, Peliculas, Documentales, Otros",Si,"Precio, Calidad, Exclusividad del contenido",Si
-Usuario 84,Masculino,19,No,Otras,Varias veces a la semana,Cada mes,Otros,No,Calidad,Si
+Usuario 84,Otro,19,No,Otras,Varias veces a la semana,Cada mes,Otros,No,Calidad,Si
 Usuario 85,Masculino,21,Si,"Netflix, Disney, Spotify",Nunca,Diario,"Series, Peliculas, Musica, Directos o en vivos",Si,"Precio, Catalogo, Calidad",Si
 Usuario 86,Femenino,21,Si,Netflix,Nunca,Cada semana,Series,Si,Calidad,Si
 Usuario 87,Femenino,41,Si,"Disney, Spotify, Otras",Nunca,Cada semana,"Series, Musica",Si,Precio,No
