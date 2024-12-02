@@ -2,14 +2,14 @@
 
 ## Análisis de afectaciones de las Plataformas de Streaming a la Televisión Abierta 
 
-Elaborado por: 
-Diego M.R.,
-Mariano de Jesús Ruiz Madrid,
+Alet Jamil Antamirano Torres,
+Diego Morales Ripalda,
 Fernando Andrade Martinez,
 Jared Hernandez Lara,
-Vianney Zenith Salamanca Hernandez,
-Alet Jamil Antamirano Torres ,
+Mariano de Jesús Ruiz Madrid,
 Oswaldo Villegas Carlos,
+Vianney Zenith Salamanca Hernandez.
+
 ## Objetivo
 
 El objetivo del análisis es evaluar el impacto de las plataformas de streaming en la audiencia de la televisión abierta, identificando cómo los hábitos de consumo de contenido están cambiando y qué factores influyen en la preferencia por el streaming sobre la televisión tradicional.
