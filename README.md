@@ -17,7 +17,7 @@ El objetivo del análisis es evaluar el impacto de las plataformas de streaming 
 ## Fases del proyecto
 ### 1.Introducción [`↗️`](Introduccion.md)
 
-### 2.Conjunto de datos [`↗️`](data/Conjunto%20de%20datos.md)
+### 2.Conjunto de datos [`↗️`](data/conjunto_datos.md)
 
 ### 3.Modelamiento [`↗️`](modelamiento.md)
 
